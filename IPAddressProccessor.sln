@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.51
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPAddressProccessor.Library", "IPAddressProccessor.Library\IPAddressProccessor.Library.csproj", "{BE71E43D-265C-47CA-929D-40468F677A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPAddressProccessor.API", "IPAddressProccessor.API\IPAddressProccessor.API.csproj", "{13C02B2B-F784-48CA-A745-74FA08D3C146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE71E43D-265C-47CA-929D-40468F677A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE71E43D-265C-47CA-929D-40468F677A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE71E43D-265C-47CA-929D-40468F677A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE71E43D-265C-47CA-929D-40468F677A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C02B2B-F784-48CA-A745-74FA08D3C146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C02B2B-F784-48CA-A745-74FA08D3C146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C02B2B-F784-48CA-A745-74FA08D3C146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C02B2B-F784-48CA-A745-74FA08D3C146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D697F975-B41B-43ED-8C2D-68BECF9B9D2C}
+	EndGlobalSection
+EndGlobal
